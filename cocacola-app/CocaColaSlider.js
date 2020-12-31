@@ -1,5 +1,14 @@
 import React, { Component } from 'react';
-import { View, StyleSheet, ScrollView, Animated, ImageBackground, Dimensions, Easing, TouchableWithoutFeedback } from 'react-native';
+import { 
+    View, 
+    StyleSheet, 
+    ScrollView, 
+    Animated, 
+    ImageBackground, 
+    Dimensions, 
+    Easing, 
+    TouchableWithoutFeedback 
+} from 'react-native';
 
 const { width, height } = Dimensions.get('screen');
 
