@@ -1,5 +1,15 @@
 import React, { Component } from 'react';
-import { View, StyleSheet, Text, Dimensions, Animated, PanResponder, TouchableWithoutFeedback, Easing, ImageBackground } from 'react-native';
+import { 
+    View, 
+    StyleSheet, 
+    Text, 
+    Dimensions, 
+    Animated, 
+    PanResponder, 
+    TouchableWithoutFeedback, 
+    Easing, 
+    ImageBackground 
+} from 'react-native';
 
 const BackgroundImage = Animated.createAnimatedComponent(ImageBackground);
 
