@@ -1,5 +1,15 @@
 import React, { Component } from 'react';
-import { View, Text, TouchableWithoutFeedback, StyleSheet, Animated, Easing, Dimensions, Image, ImageBackground } from 'react-native';
+import { 
+    View, 
+    Text, 
+    TouchableWithoutFeedback, 
+    StyleSheet, 
+    Animated, 
+    Easing, 
+    Dimensions, 
+    Image, 
+    ImageBackground 
+} from 'react-native';
 
 const { width, height } = Dimensions.get('window');
 
