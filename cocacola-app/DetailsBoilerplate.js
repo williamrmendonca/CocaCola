@@ -5,7 +5,6 @@ import {
     TouchableWithoutFeedback, 
     StyleSheet, 
     Animated, 
-    Easing, 
     Dimensions, 
     Image, 
     ImageBackground 
