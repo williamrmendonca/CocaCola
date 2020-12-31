@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, View } from 'react-native';
+import { StyleSheet } from 'react-native';
 import { Asset } from 'expo-asset';
 import { AppLoading } from 'expo';
 import Navigation from './cocacola-app/Navigation';
